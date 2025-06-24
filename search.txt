@@ -5,3 +5,4 @@ Simple Voice Chat-plugins
 Full Brightness Toggle-mods
 Collective-mods
 Mellow-shaders
+Xaero's World Map-mods
