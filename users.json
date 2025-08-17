@@ -1,0 +1,25 @@
+[
+  {
+    "id": "0001",
+    "username": "abc",
+    "password": "123",
+    "email": "abc@abc.com",
+    "profilePic": "https://ui-avatars.com/api/?background=1E293B&color=fff&name=ABC+",
+    "fullName": "ABC",
+    "status": "online",
+    "lastSeen": "1755334410",
+    "bio": "Hey There, I'm using Kite!"
+  },
+
+  {
+    "id": "0002",
+    "username": "ardev",
+    "password": "123",
+    "email": "ardev@abc.com",
+    "profilePic": "https://ui-avatars.com/api/?background=1E293B&color=fff&name=AR+DEV",
+    "fullName": "AR DEV",
+    "status": "offline",
+    "lastSeen": "1755334410",
+    "bio": "Hey There, I'm using Kite!"
+  }
+]
